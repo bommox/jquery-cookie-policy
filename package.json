@@ -1,0 +1,33 @@
+{
+  "name": "jquery-cookie-policy",
+  "version": "1.0.0",
+  "description": "Jquery Cookie Policy plugin",
+  "main": "README.md",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bommox/jquery-cookie-policy.git"
+  },
+  "keywords": [
+    "jquery",
+    "cookie",
+    "plugin"
+  ],
+  "author": "Jorge Blom-Dahl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bommox/jquery-cookie-policy/issues"
+  },
+  "homepage": "https://github.com/bommox/jquery-cookie-policy#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-uglify": "^1.0.1",
+    "jquery": "^3.1.0"
+  }
+}
